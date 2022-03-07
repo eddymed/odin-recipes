@@ -1,2 +1,6 @@
 # odin-recipes
-Proyecto de recetas de cocina
+Project for recipes
+
+Sample to practice HTML structure
+and List (order and unorder)
+
